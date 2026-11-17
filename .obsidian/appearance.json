@@ -1,0 +1,7 @@
+{
+  "showRibbon": true,
+  "theme": "moonstone",
+  "accentColor": "#69acce",
+  "cssTheme": "Prism",
+  "showViewHeader": true
+}
